@@ -1,2 +1,4 @@
-# hello-Vibrato-rust
-VibratoのRust版を動かすテスト
+# Unity向けのプラグイン作成
+
+VibratoのRust版をUnity向けにプラグイン対応
+
